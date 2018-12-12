@@ -1,0 +1,10 @@
+title = "Inazuma Eleven"
+description = "This game is about the team Raimon and the adventure with Football Frontier. This game is like Football RPG."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000112B00"
+region = "usa"
+release_date = "2014-02-13"
